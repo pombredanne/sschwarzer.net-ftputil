@@ -1,0 +1,11 @@
+Planned:
+
+- clean up the code by using decorators
+- add `ftp_session` module containing session classes (e. g. for
+  passive mode connections)
+
+Ideas for future development:
+
+- see ticket system
+- WebDAV support?
+
